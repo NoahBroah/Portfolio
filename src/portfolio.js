@@ -32,7 +32,7 @@ const projects = [
     // livePreview: 'https://github.com',
   },
   {
-    name: 'Collabland',
+    name: 'Project Collabs',
     description:
       "Allows users to create collaborative projects, that other users can be a part of.",
     stack: ['Rails', 'JavaScript', 'React'],
