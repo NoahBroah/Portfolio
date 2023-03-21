@@ -12,7 +12,7 @@ const about = {
   role: 'Jack of All Trades',
   description:
   " I am a driven entrepreneur who recently sold my first company and began my transition into the technology industry. With a full stack software engineering course under my belt, I am eager to leverage my expertise in building relationships, overseeing projects, improving efficiency, and creating scalable operations to excel in a new career in the technology or Web3 space. ",
-  resume: 'https://drive.google.com/uc?id=1l9yN4fsP4rkMl5sCDUqYe-fRZ5x5yWN9',
+  resume: 'https://drive.google.com/uc?id=1DSzmWVl5ySiO7vOzUlapPKdZwX3a_htt',
   social: {
     linkedin: 'https://www.linkedin.com/in/noah-b-king/',
     github: 'https://github.com/NoahBroah',
@@ -32,7 +32,7 @@ const projects = [
     // livePreview: 'https://github.com',
   },
   {
-    name: 'Collabland',
+    name: 'Project Collabs',
     description:
       "Allows users to create collaborative projects, that other users can be a part of.",
     stack: ['Rails', 'JavaScript', 'React'],
